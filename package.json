@@ -7,14 +7,26 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@serializedowen/vue-img-watermark": "^1.1.0",
+    "axios": "^0.21.1",
+    "console": "^0.7.2",
     "core-js": "^3.6.5",
+    "firebase": "^8.8.1",
+    "luxon": "^2.0.2",
     "vue": "^3.0.0",
-    "vue-router": "^4.0.0-0"
+    "vue-datetime": "^1.0.0-beta.14",
+    "vue-router": "^4.0.0-0",
+    "vue-time-picker": "^0.2.6",
+    "vue3-datepicker": "^0.2.5",
+    "vue3-timepicker": "^1.0.0-beta.2",
+    "vuejs-datepicker": "^1.6.2",
+    "weekstart": "^1.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
-    "@vue/compiler-sfc": "^3.0.0"
+    "@vue/compiler-sfc": "^3.0.0",
+    "vue-loader-v16": "^16.0.0-beta.5.4"
   }
 }
